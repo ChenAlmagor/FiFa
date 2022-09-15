@@ -1,0 +1,9 @@
+torch
+numpy
+einops
+pandas
+wget
+sklearn
+matplotlib
+wandb
+torchvision
